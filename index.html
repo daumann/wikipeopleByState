@@ -179,7 +179,7 @@
                 d3.select(this).transition().duration(300).style("opacity", 0.8);
                 div.transition().duration(300)
                     .style("opacity", 1)
-                div.text(stateByFIPS[d.id] + ": " + dataByFIPS[d.id][0] + "%\ntest")
+                div.text(stateByFIPS[d.id] + ": " + dataByFIPS[d.id][0] + "%  (average population " + dataByFIPS[d.id][1] + " ### divided by people with wiki articles: " + dataByFIPS[d.id][2] + ")")
                     .style("left", (d3.event.pageX) + "px")
                     .style("top", (d3.event.pageY - 30) + "px");
             })
