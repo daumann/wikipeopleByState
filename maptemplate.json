@@ -1,0 +1,352 @@
+[
+  {
+    "state": "Alabama",
+    "num": 0.00028822330571352843,
+    "FIPS": "1",
+    "pop": 4104456.4285714286,
+    "wikiPeople": 1183
+  },
+  {
+    "state": "Alaska",
+    "num": 0.00047861052695553625,
+    "FIPS": "2",
+    "pop": 507719.71428571426,
+    "wikiPeople": 243
+  },
+  {
+    "state": "Arizona",
+    "num": 0.0002570195982927886,
+    "FIPS": "4",
+    "pop": 3972459.714285714,
+    "wikiPeople": 1021
+  },
+  {
+    "state": "Arkansas",
+    "num": 0.0002309295553116192,
+    "FIPS": "5",
+    "pop": 2416321.285714286,
+    "wikiPeople": 558
+  },
+  {
+    "state": "California",
+    "num": 0.000511208886813984,
+    "FIPS": "6",
+    "pop": 29827337.5,
+    "wikiPeople": 15248
+  },
+  {
+    "state": "Colorado",
+    "num": 0.00031809765489713363,
+    "FIPS": "8",
+    "pop": 3561799.285714286,
+    "wikiPeople": 1133
+  },
+  {
+    "state": "Connecticut",
+    "num": 0.0003585094262726341,
+    "FIPS": "9",
+    "pop": 3218883.285714286,
+    "wikiPeople": 1154
+  },
+  {
+    "state": "Delaware",
+    "num": 0.00031111939488404197,
+    "FIPS": "10",
+    "pop": 697481.4285714285,
+    "wikiPeople": 217
+  },
+  {
+    "state": "Florida",
+    "num": 0.0003653321656710853,
+    "FIPS": "12",
+    "pop": 12782887.57142857,
+    "wikiPeople": 4670
+  },
+  {
+    "state": "Georgia",
+    "num": 0.00035459110435937435,
+    "FIPS": "13",
+    "pop": 6937568.285714285,
+    "wikiPeople": 2460
+  },
+  {
+    "state": "Hawaii",
+    "num": 0.0005431363285695564,
+    "FIPS": "15",
+    "pop": 1110218.5,
+    "wikiPeople": 603
+  },
+  {
+    "state": "Idaho",
+    "num": 0.00021766538076722458,
+    "FIPS": "16",
+    "pop": 1120986.7142857143,
+    "wikiPeople": 244
+  },
+  {
+    "state": "Illinois",
+    "num": 0.0003531430412247855,
+    "FIPS": "17",
+    "pop": 11737453.42857143,
+    "wikiPeople": 4145
+  },
+  {
+    "state": "Indiana",
+    "num": 0.00021799389372553136,
+    "FIPS": "18",
+    "pop": 5724931,
+    "wikiPeople": 1248
+  },
+  {
+    "state": "Iowa",
+    "num": 0.0002883295414701144,
+    "FIPS": "19",
+    "pop": 2909864.8571428573,
+    "wikiPeople": 839
+  },
+  {
+    "state": "Kansas",
+    "num": 0.00024927172531192686,
+    "FIPS": "20",
+    "pop": 2531374.1428571427,
+    "wikiPeople": 631
+  },
+  {
+    "state": "Kentucky",
+    "num": 0.00021549338765488327,
+    "FIPS": "21",
+    "pop": 3772737.5714285714,
+    "wikiPeople": 813
+  },
+  {
+    "state": "Louisiana",
+    "num": 0.00041883248814466104,
+    "FIPS": "22",
+    "pop": 4142467.5714285714,
+    "wikiPeople": 1735
+  },
+  {
+    "state": "Maine",
+    "num": 0.0002308854663783347,
+    "FIPS": "23",
+    "pop": 1178073.2857142857,
+    "wikiPeople": 272
+  },
+  {
+    "state": "Maryland",
+    "num": 0.00029928164206407577,
+    "FIPS": "24",
+    "pop": 4878348,
+    "wikiPeople": 1460
+  },
+  {
+    "state": "Massachusetts",
+    "num": 0.0004120631115227774,
+    "FIPS": "25",
+    "pop": 6040336.857142857,
+    "wikiPeople": 2489
+  },
+  {
+    "state": "Michigan",
+    "num": 0.00030293700744082587,
+    "FIPS": "26",
+    "pop": 9285758.857142856,
+    "wikiPeople": 2813
+  },
+  {
+    "state": "Minnesota",
+    "num": 0.00035643612563299594,
+    "FIPS": "27",
+    "pop": 4483271.714285715,
+    "wikiPeople": 1598
+  },
+  {
+    "state": "Mississippi",
+    "num": 0.0003443903593658735,
+    "FIPS": "28",
+    "pop": 2613313.5714285714,
+    "wikiPeople": 900
+  },
+  {
+    "state": "Missouri",
+    "num": 0.00028077913922173656,
+    "FIPS": "29",
+    "pop": 5242554.714285715,
+    "wikiPeople": 1472
+  },
+  {
+    "state": "Montana",
+    "num": 0.0002988354432102104,
+    "FIPS": "30",
+    "pop": 839927.1428571428,
+    "wikiPeople": 251
+  },
+  {
+    "state": "Nebraska",
+    "num": 0.0003025226397505164,
+    "FIPS": "31",
+    "pop": 1639546.7142857143,
+    "wikiPeople": 496
+  },
+  {
+    "state": "Nevada",
+    "num": 0.0002883466565438243,
+    "FIPS": "32",
+    "pop": 1480856.4285714286,
+    "wikiPeople": 427
+  },
+  {
+    "state": "New Hampshire",
+    "num": 0.00028550452728607554,
+    "FIPS": "33",
+    "pop": 1036761.1428571428,
+    "wikiPeople": 296
+  },
+  {
+    "state": "New Jersey",
+    "num": 0.0003765525838548698,
+    "FIPS": "34",
+    "pop": 7929835.375,
+    "wikiPeople": 2986
+  },
+  {
+    "state": "New Mexico",
+    "num": 0.00021100972058889203,
+    "FIPS": "35",
+    "pop": 1535474.2857142857,
+    "wikiPeople": 324
+  },
+  {
+    "state": "New York",
+    "num": 0.000508475308392411,
+    "FIPS": "36",
+    "pop": 18388306.85714286,
+    "wikiPeople": 9350
+  },
+  {
+    "state": "North Carolina",
+    "num": 0.00024849217643406593,
+    "FIPS": "37",
+    "pop": 7110887.857142857,
+    "wikiPeople": 1767
+  },
+  {
+    "state": "North Dakota",
+    "num": 0.00027463225938464166,
+    "FIPS": "38",
+    "pop": 659063.1428571428,
+    "wikiPeople": 181
+  },
+  {
+    "state": "Ohio",
+    "num": 0.00029434205786075504,
+    "FIPS": "39",
+    "pop": 10929460.857142856,
+    "wikiPeople": 3217
+  },
+  {
+    "state": "Oklahoma",
+    "num": 0.0002829939634364465,
+    "FIPS": "40",
+    "pop": 3194414.4285714286,
+    "wikiPeople": 904
+  },
+  {
+    "state": "Oregon",
+    "num": 0.00028689988450278863,
+    "FIPS": "41",
+    "pop": 2945278.285714286,
+    "wikiPeople": 845
+  },
+  {
+    "state": "Pennsylvania",
+    "num": 0.0002956474004075551,
+    "FIPS": "42",
+    "pop": 12092107,
+    "wikiPeople": 3575
+  },
+  {
+    "state": "Rhode Island",
+    "num": 0.00033309155389451715,
+    "FIPS": "44",
+    "pop": 987716.4285714285,
+    "wikiPeople": 329
+  },
+  {
+    "state": "South Carolina",
+    "num": 0.00026923982750653937,
+    "FIPS": "45",
+    "pop": 3587879.285714286,
+    "wikiPeople": 966
+  },
+  {
+    "state": "South Dakota",
+    "num": 0.00023196388727291471,
+    "FIPS": "46",
+    "pop": 737183.7142857143,
+    "wikiPeople": 171
+  },
+  {
+    "state": "Tennessee",
+    "num": 0.00025467225969839165,
+    "FIPS": "47",
+    "pop": 5084966.857142857,
+    "wikiPeople": 1295
+  },
+  {
+    "state": "Texas",
+    "num": 0.0003088269682071942,
+    "FIPS": "48",
+    "pop": 17922657.57142857,
+    "wikiPeople": 5535
+  },
+  {
+    "state": "Utah",
+    "num": 0.00030235945503688646,
+    "FIPS": "49",
+    "pop": 1875251.4285714286,
+    "wikiPeople": 567
+  },
+  {
+    "state": "Vermont",
+    "num": 0.00030644448778002856,
+    "FIPS": "50",
+    "pop": 538433.5714285715,
+    "wikiPeople": 165
+  },
+  {
+    "state": "Virginia",
+    "num": 0.00027574883889583895,
+    "FIPS": "51",
+    "pop": 6230307.285714285,
+    "wikiPeople": 1718
+  },
+  {
+    "state": "Washington",
+    "num": 0.0003175441608207966,
+    "FIPS": "53",
+    "pop": 5007177.571428572,
+    "wikiPeople": 1590
+  },
+  {
+    "state": "West Virginia",
+    "num": 0.00015575833184538224,
+    "FIPS": "54",
+    "pop": 1836177.857142857,
+    "wikiPeople": 286
+  },
+  {
+    "state": "Wisconsin",
+    "num": 0.00025211961858564546,
+    "FIPS": "55",
+    "pop": 4969863.142857143,
+    "wikiPeople": 1253
+  },
+  {
+    "state": "Wyoming",
+    "num": 0.00023622082767519185,
+    "FIPS": "56",
+    "pop": 503765.9090909091,
+    "wikiPeople": 119
+  }
+]
